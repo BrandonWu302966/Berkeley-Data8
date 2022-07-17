@@ -92,5 +92,5 @@ def step_array_with_dimensions():
     print(a)
 
 
-
+array_functions()
 
